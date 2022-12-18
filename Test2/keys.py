@@ -1,0 +1,5 @@
+api_key_real = 'JbkhUjo5zkN0msgbsil56gWHkaGFjlvLA72i5ajBZ2A4DCCuQSXCqfWN4sJC1ZWg'
+secret_key_real = 'YHOvS4ZZU0TFGRlxn0XJqXdAMirxs7TeDE2YnNTdON0MYJhmm39j8m6PXfZlfYsj'
+api_key_testnet = 'P584C1pIUer3wvRTMdNdomqkx8WKEIuOIoEWgMbcVxMV0wAzubqfpNYWJH6w7VAl'
+secret_key_testnet = '0Jzptmg9xlIJHRLDyoXL7bbbeJ3iChiO7YA77vppJZv8oVsDYzyoMqfeZbHYi1DI'
+telegram_api_key = '5685475347:AAELNP7siyKhKMI-DdmWwBlX4vXD7jWwStk'
